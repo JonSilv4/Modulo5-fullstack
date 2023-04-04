@@ -34,17 +34,11 @@ implementar uma dessas entidades.</h4>
 
 <h2>🗺️Mapeamento das Entidade</h2>
 
-<h3>Carros ↧</h3>
+<h2>⇨ Os dados abaixo serão necessários serem criados no SQL para a execução do projeto.</h2>
 
-```
-ID (CHAVE PRIMÁRIA)
-Marca:
-Modelo:
-Cor:
-Ano:
 
-```
-<h2>⇨ O arquivo crud_carro.sql será necessário para a execução do projeto.</h2>
+![MySQL Workbench 04_04_2023 11_17_13](https://user-images.githubusercontent.com/115708859/229822288-c5f6653a-d6c5-4726-9bbe-e8bd306ffbf1.png)
+
 
 <h2>Para usar a aplicação<h2>
 ⇨ Baixe este repositório<br>
